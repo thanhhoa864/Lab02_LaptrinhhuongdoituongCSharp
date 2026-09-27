@@ -1,0 +1,14 @@
+D:\LAB02_PhamThanhHoa_312411096\Thuc Hanh 02 - Lap trinh huong doi tuong CSharp\Bai3.3\Bai3.3\bin\Debug\net9.0\Bai3.3.exe
+D:\LAB02_PhamThanhHoa_312411096\Thuc Hanh 02 - Lap trinh huong doi tuong CSharp\Bai3.3\Bai3.3\bin\Debug\net9.0\Bai3.3.deps.json
+D:\LAB02_PhamThanhHoa_312411096\Thuc Hanh 02 - Lap trinh huong doi tuong CSharp\Bai3.3\Bai3.3\bin\Debug\net9.0\Bai3.3.runtimeconfig.json
+D:\LAB02_PhamThanhHoa_312411096\Thuc Hanh 02 - Lap trinh huong doi tuong CSharp\Bai3.3\Bai3.3\bin\Debug\net9.0\Bai3.3.dll
+D:\LAB02_PhamThanhHoa_312411096\Thuc Hanh 02 - Lap trinh huong doi tuong CSharp\Bai3.3\Bai3.3\bin\Debug\net9.0\Bai3.3.pdb
+D:\LAB02_PhamThanhHoa_312411096\Thuc Hanh 02 - Lap trinh huong doi tuong CSharp\Bai3.3\Bai3.3\obj\Debug\net9.0\Bai3.3.GeneratedMSBuildEditorConfig.editorconfig
+D:\LAB02_PhamThanhHoa_312411096\Thuc Hanh 02 - Lap trinh huong doi tuong CSharp\Bai3.3\Bai3.3\obj\Debug\net9.0\Bai3.3.AssemblyInfoInputs.cache
+D:\LAB02_PhamThanhHoa_312411096\Thuc Hanh 02 - Lap trinh huong doi tuong CSharp\Bai3.3\Bai3.3\obj\Debug\net9.0\Bai3.3.AssemblyInfo.cs
+D:\LAB02_PhamThanhHoa_312411096\Thuc Hanh 02 - Lap trinh huong doi tuong CSharp\Bai3.3\Bai3.3\obj\Debug\net9.0\Bai3.3.csproj.CoreCompileInputs.cache
+D:\LAB02_PhamThanhHoa_312411096\Thuc Hanh 02 - Lap trinh huong doi tuong CSharp\Bai3.3\Bai3.3\obj\Debug\net9.0\Bai3.3.dll
+D:\LAB02_PhamThanhHoa_312411096\Thuc Hanh 02 - Lap trinh huong doi tuong CSharp\Bai3.3\Bai3.3\obj\Debug\net9.0\refint\Bai3.3.dll
+D:\LAB02_PhamThanhHoa_312411096\Thuc Hanh 02 - Lap trinh huong doi tuong CSharp\Bai3.3\Bai3.3\obj\Debug\net9.0\Bai3.3.pdb
+D:\LAB02_PhamThanhHoa_312411096\Thuc Hanh 02 - Lap trinh huong doi tuong CSharp\Bai3.3\Bai3.3\obj\Debug\net9.0\Bai3.3.genruntimeconfig.cache
+D:\LAB02_PhamThanhHoa_312411096\Thuc Hanh 02 - Lap trinh huong doi tuong CSharp\Bai3.3\Bai3.3\obj\Debug\net9.0\ref\Bai3.3.dll

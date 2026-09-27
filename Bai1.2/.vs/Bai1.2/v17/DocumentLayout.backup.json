@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LAB02_PhamThanhHoa_312411096\\Thuc Hanh 02 - Lap trinh huong doi tuong CSharp\\Bai1.2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22CB4056-E018-44E2-8CBE-569D2895E1CC}|Bai1.2\\Bai1.2.csproj|d:\\lab02_phamthanhhoa_312411096\\thuc hanh 02 - lap trinh huong doi tuong csharp\\bai1.2\\bai1.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22CB4056-E018-44E2-8CBE-569D2895E1CC}|Bai1.2\\Bai1.2.csproj|solutionrelative:bai1.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\LAB02_PhamThanhHoa_312411096\\Thuc Hanh 02 - Lap trinh huong doi tuong CSharp\\Bai1.2\\Bai1.2\\Program.cs",
+              "RelativeDocumentMoniker": "Bai1.2\\Program.cs",
+              "ToolTip": "D:\\LAB02_PhamThanhHoa_312411096\\Thuc Hanh 02 - Lap trinh huong doi tuong CSharp\\Bai1.2\\Bai1.2\\Program.cs",
+              "RelativeToolTip": "Bai1.2\\Program.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAA0wIIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-26T08:48:52.501Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

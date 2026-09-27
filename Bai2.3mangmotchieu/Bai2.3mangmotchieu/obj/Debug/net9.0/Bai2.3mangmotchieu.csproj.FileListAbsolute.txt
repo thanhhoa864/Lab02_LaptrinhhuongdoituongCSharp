@@ -1,0 +1,14 @@
+D:\LAB02_PhamThanhHoa_312411096\Thuc Hanh 02 - Lap trinh huong doi tuong CSharp\Bai2.3mangmotchieu\Bai2.3mangmotchieu\bin\Debug\net9.0\Bai2.3mangmotchieu.exe
+D:\LAB02_PhamThanhHoa_312411096\Thuc Hanh 02 - Lap trinh huong doi tuong CSharp\Bai2.3mangmotchieu\Bai2.3mangmotchieu\bin\Debug\net9.0\Bai2.3mangmotchieu.deps.json
+D:\LAB02_PhamThanhHoa_312411096\Thuc Hanh 02 - Lap trinh huong doi tuong CSharp\Bai2.3mangmotchieu\Bai2.3mangmotchieu\bin\Debug\net9.0\Bai2.3mangmotchieu.runtimeconfig.json
+D:\LAB02_PhamThanhHoa_312411096\Thuc Hanh 02 - Lap trinh huong doi tuong CSharp\Bai2.3mangmotchieu\Bai2.3mangmotchieu\bin\Debug\net9.0\Bai2.3mangmotchieu.dll
+D:\LAB02_PhamThanhHoa_312411096\Thuc Hanh 02 - Lap trinh huong doi tuong CSharp\Bai2.3mangmotchieu\Bai2.3mangmotchieu\bin\Debug\net9.0\Bai2.3mangmotchieu.pdb
+D:\LAB02_PhamThanhHoa_312411096\Thuc Hanh 02 - Lap trinh huong doi tuong CSharp\Bai2.3mangmotchieu\Bai2.3mangmotchieu\obj\Debug\net9.0\Bai2.3mangmotchieu.GeneratedMSBuildEditorConfig.editorconfig
+D:\LAB02_PhamThanhHoa_312411096\Thuc Hanh 02 - Lap trinh huong doi tuong CSharp\Bai2.3mangmotchieu\Bai2.3mangmotchieu\obj\Debug\net9.0\Bai2.3mangmotchieu.AssemblyInfoInputs.cache
+D:\LAB02_PhamThanhHoa_312411096\Thuc Hanh 02 - Lap trinh huong doi tuong CSharp\Bai2.3mangmotchieu\Bai2.3mangmotchieu\obj\Debug\net9.0\Bai2.3mangmotchieu.AssemblyInfo.cs
+D:\LAB02_PhamThanhHoa_312411096\Thuc Hanh 02 - Lap trinh huong doi tuong CSharp\Bai2.3mangmotchieu\Bai2.3mangmotchieu\obj\Debug\net9.0\Bai2.3mangmotchieu.csproj.CoreCompileInputs.cache
+D:\LAB02_PhamThanhHoa_312411096\Thuc Hanh 02 - Lap trinh huong doi tuong CSharp\Bai2.3mangmotchieu\Bai2.3mangmotchieu\obj\Debug\net9.0\Bai2.3mangmotchieu.dll
+D:\LAB02_PhamThanhHoa_312411096\Thuc Hanh 02 - Lap trinh huong doi tuong CSharp\Bai2.3mangmotchieu\Bai2.3mangmotchieu\obj\Debug\net9.0\refint\Bai2.3mangmotchieu.dll
+D:\LAB02_PhamThanhHoa_312411096\Thuc Hanh 02 - Lap trinh huong doi tuong CSharp\Bai2.3mangmotchieu\Bai2.3mangmotchieu\obj\Debug\net9.0\Bai2.3mangmotchieu.pdb
+D:\LAB02_PhamThanhHoa_312411096\Thuc Hanh 02 - Lap trinh huong doi tuong CSharp\Bai2.3mangmotchieu\Bai2.3mangmotchieu\obj\Debug\net9.0\Bai2.3mangmotchieu.genruntimeconfig.cache
+D:\LAB02_PhamThanhHoa_312411096\Thuc Hanh 02 - Lap trinh huong doi tuong CSharp\Bai2.3mangmotchieu\Bai2.3mangmotchieu\obj\Debug\net9.0\ref\Bai2.3mangmotchieu.dll
